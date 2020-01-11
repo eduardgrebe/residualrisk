@@ -7,6 +7,12 @@ The model is described in:
 
 Code copyright Eduard Grebe <EGrebe@vitalant.org>, 2019. Released under the The GNU Affero General Public License Version 3.0.
 
+## Suggested citation
+
+If you use this code in published research, I suggest citing both the Weusten article and this repository, by means of the DOI on Zenodo:
+* Grebe, E. (2019) Residual risk of HIV transfusion transmission with NAT screening. Jupyter Notebook. Version 1.0. doi:[10.5281/zenodo.3588570](https://doi.org/10.5281/zenodo.3588570).
+
+
 ## Running
 
 The code is written for Python 3.
