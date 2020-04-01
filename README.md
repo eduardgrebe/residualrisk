@@ -10,9 +10,9 @@ Code copyright Eduard Grebe <EGrebe@vitalant.org>, 2020. Released under the The 
 
 ## Next steps
 
-* Implement a more sophisticated infectivity model $P_{tt}(n)$, $n$ is number of virions transfused
-* Implement uncertainty analysis (use code from TTIMS study residual risk estimation exercise
-* Make lookback investigation analysis easier to use
+* Implement a more sophisticated infectivity model $P_{tt}(n)$, with $n$ the number of virions transfused
+* Implement uncertainty analysis (use code from TTIMS study residual risk estimation exercise)
+* Make lookback investigation analysis easier to perform and document the code
 * Create a [Dash](https://plotly.com/dash/) app
 
 ## Suggested citation
