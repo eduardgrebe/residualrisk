@@ -133,3 +133,7 @@ dmypy.json
 
 # Mac cruft
 .DS_Store
+
+# Rendered notebooks
+*.html
+*.pdf
