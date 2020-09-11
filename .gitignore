@@ -137,3 +137,9 @@ dmypy.json
 # Rendered notebooks
 *.html
 *.pdf
+
+# Shinyapps.io connection
+rsconnect/
+
+.Rproj.user
+.Rhistory
