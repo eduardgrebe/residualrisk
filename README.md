@@ -1,5 +1,7 @@
 # Residual risk of HIV transfusion transmission with NAT screening
 
+**This repository is kept for historical purposes. The work is superseded by [Residual Risk Estimation Tool](https://codeberg.org/eduardgrebe/residualriskapp)**
+
 *Eduard Grebe <EGrebe@vitalant.org>, 17 July 2020*
 
 The code in this repository implements a tool for estimating the residual risk 
